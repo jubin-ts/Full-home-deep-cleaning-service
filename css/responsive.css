@@ -1,0 +1,404 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.main-menu ul li a {
+  padding: 35px 0;
+}
+.hamburger {
+  margin-top: 32px;
+}
+.hamburger.is-active {
+  margin-top: 32px;
+}
+.slide-height {
+  min-height: 650px;
+}
+.wrapper-box {
+  padding: 0 80px;
+}
+.social-icon {
+  left: -58px;
+}
+.custom-dots .owl-dots {
+  right: -64px;
+}
+.project-content {
+  padding-right: 40px;
+}
+.project-list .project-content {
+  padding-right: 41px;
+}
+.slide-full {
+	min-height: 720px;
+}
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+.main-menu ul li a {
+  padding: 35px 0;
+}
+.hamburger {
+  margin-top: 32px;
+}
+.hamburger.is-active {
+  margin-top: 32px;
+}
+.hamburger-menu {
+  margin-right: 50px;
+}
+nav.nav-menu-show {
+  margin-right: 38px;
+}
+.slide-height {
+  min-height: 550px;
+}
+.slider-content h1 {
+  font-size: 75px;;
+}
+.slider-content span {
+  margin-bottom: 35px;
+}
+.intro-text h2 {
+  font-size: 31px;
+  line-height: 1.3;
+  margin-bottom: 20px;
+}
+.service-text {
+  padding: 0;
+}
+.service-img > img {
+  margin-top: 0;
+}
+.project-content {
+  padding-bottom: 30px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.blog-content {
+  padding: 40px 55px 40px 30px;
+}
+.features-wrapper {
+  padding-right: 0;
+}
+.video-area {
+  padding: 260px 0;
+}
+.cta-content {
+  padding-left: 0;
+}
+.slide-full-content h1 {
+  font-size: 50px;
+  margin-bottom: 35px;
+}
+.slide-full {
+  min-height: 680px;
+}
+.contact-area {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.intro-text {
+  padding: 0 0 0 20px;
+}
+.service-img {
+  margin-top: 50px;
+}
+.wrapper-box {
+  padding: 0 30px;
+}
+.social-icon {
+  display: none;
+}
+.project-list .project-content {
+  padding-right: 30px;
+}
+
+
+
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.hamburger {
+  display: none;
+}
+.header-area {
+  padding: 25px 0 12px;
+}
+.slide-height {
+  min-height: 500px;
+}
+.slider-content h1 {
+  font-size: 50px;
+}
+.slider-content span {
+  font-size: 18px;
+  letter-spacing: 7px;
+  margin-bottom: 30px;
+}
+.btn {
+  padding: 15px 35px;
+}
+.slider-content a {
+  font-size: 18px;
+}
+.service-text {
+  padding: 0;
+}
+.service-img > img {
+  margin-top: 0;
+}
+.service-img {
+  margin-top: 45px;
+}
+.cta-button {
+  margin-top: 30px
+}
+.header-transparent {
+  padding: 25px 0;
+}
+.features-wrapper{
+  margin-bottom: 30px;
+}
+.video-area {
+  padding: 200px 0;
+}
+.cta-content {
+  padding-left: 0;
+}
+
+.mobile-menu-black .mean-container a.meanmenu-reveal {
+  border: 1px solid #444;
+  color: #444;
+}
+.mobile-menu-black .mean-container a.meanmenu-reveal span {
+  background: #444 none repeat scroll 0 0;
+}
+.contact-area {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.slide-full {
+  min-height: 500px;
+}
+.slide-full-content h1 {
+  font-size: 36px;
+  line-height: 44px;
+  margin-bottom: 15px;
+}
+.slide-full-content > p {
+  margin-bottom: 35px;
+}
+.slide-full .btn {
+  font-size: 18px;
+}
+.features-wrapper {
+  padding-right: 0;
+}
+.blog-content {
+  padding: 40px 30px;
+}
+.intro-page {
+  margin-bottom: 60px;
+}
+.project-list .project-content {
+  padding-right: 30px;
+}
+.comment-margin{margin-bottom: 30px}
+.project-content {
+	padding-right: 100px;
+}
+.left-sidebar{margin-bottom: 50px;}
+
+
+}
+
+
+/* small mobile :320px. */
+@media (max-width: 767px) {
+.wrapper-box {
+	padding: 0 12px;
+}
+.hamburger {
+  display: none;
+}
+.header-area {
+  padding: 25px 0 12px;
+}
+.slide-height {
+  min-height: 500px;
+}
+.slider-content h1 {
+  font-size: 50px;
+}
+.slider-content span {
+  font-size: 18px;
+  letter-spacing: 7px;
+  margin-bottom: 30px;
+}
+.btn {
+  padding: 15px 35px;
+}
+.slider-content a {
+  font-size: 18px;
+}
+.social-icon {
+  display: none;
+}
+.service-area {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.service-text {
+  padding: 0;
+}
+.service-img > img {
+  margin-top: 40px;
+}
+.service-text > p {
+  margin-top: 25px;
+}
+.testimonial-area {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.cta-content{
+  margin-bottom: 30px;
+  margin-top: 20px;
+  padding: 0;
+}
+.contact-area {
+  padding-left: 0;
+  padding-right: 0;
+}
+.header-transparent {
+  padding: 25px 0;
+}
+.hero-caption {
+  padding-top: 60px;
+}
+.hero-caption > h1 {
+  font-size: 42px;
+  margin-bottom: 30px;
+}
+.hero-bg {
+	display: none;
+}
+.project-details-thumb {
+	display: block;
+	width: 100%;
+}
+.hero-slider{border-bottom: 1px solid #ddd}
+.features-wrapper {
+  margin-bottom: 30px;
+  padding: 0;
+}
+.video-area {
+  padding: 150px 0;
+}
+.mobile-menu-black .mean-container a.meanmenu-reveal {
+  border: 1px solid #444;
+  color: #444;
+}
+.mobile-menu-black .mean-container a.meanmenu-reveal span {
+  background: #444 none repeat scroll 0 0;
+}
+.slide-full {
+  min-height: 500px;
+}
+.slide-full-content h1 {
+  font-size: 36px;
+  line-height: 44px;
+  margin-bottom: 15px;
+}
+.slide-full-content > p {
+  margin-bottom: 35px;
+}
+.slide-full .btn {
+  font-size: 18px;
+}
+.intro-page {
+  margin-bottom: 60px;
+}
+.blog-text {
+  padding: 25px;
+}
+.page-title-area {
+  padding: 100px 0;
+}
+.hero-caption.white-bg {
+  padding: 40px 30px;
+}
+.comment-reply {
+  margin-left: 0;
+}
+.comment-margin{margin-bottom: 30px}
+.intro-text {
+	padding: 0 5px;
+}
+.project-area {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+.contact-list {
+	margin-bottom: 30px;
+}
+.inner-contact {
+	padding-bottom: 90px;
+}
+.blog-meta .f-right {
+	float: none;
+}
+.hero-caption ul li {
+	width: 100%;
+	margin-bottom: 18px;
+}
+.hero-caption > p {
+	padding-right: 0;
+}
+.follow-icon > a {
+	margin-right: 12px;
+}
+.category-item .project-content {
+	padding-right: 30px;
+}
+.project-content {
+	padding-right: 30px;
+}
+.testimonial-active.owl-carousel .owl-item img {
+	width: 100%;
+}
+.testimonial-active.owl-carousel .owl-item .testimonial-content > img {
+	width: auto;
+}
+.testimonial-content {
+	padding-right: 0;
+}
+.blog-content {
+	padding: 40px 42px 40px 30px;
+}
+.left-sidebar{margin-bottom: 50px;}
+
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (min-width: 566px) and (max-width: 767px) {
+.blog-meta .f-right {
+	float: right;
+}
+.hero-caption ul li {
+	width: 50%;
+}
+.category-item .project-content {
+	padding-right: 50px;
+}
+.testimonial-active.owl-carousel .owl-item img {
+	width: auto;
+}
+
+
+}
